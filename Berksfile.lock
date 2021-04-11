@@ -1,0 +1,9 @@
+DEPENDENCIES
+  apt
+  hass-stack
+    path: .
+    metadata: true
+
+GRAPH
+  apt (7.4.0)
+  hass-stack (0.0.1)
